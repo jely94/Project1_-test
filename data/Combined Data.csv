@@ -1,0 +1,309 @@
+ISO2,ISO3,INDEX,Region,Country,Score,GDP,Social_Support,Life_Exp,Freedom_Choice,Generosity,Corruption,Year
+AF,AFG,Afghanistan_2018,Southern Asia,Afghanistan,3.632,0.332,0.537,0.255,0.085,0.191,0.036,2018
+AF,AFG,Afghanistan_2019,Southern Asia,Afghanistan,3.203,0.35,0.517,0.361,0,0.158,0.025,2019
+AL,ALB,Albania_2018,Southern Europe,Albania,4.586,0.916,0.817,0.79,0.419,0.149,0.032,2018
+AL,ALB,Albania_2019,Southern Europe,Albania,4.719,0.947,0.848,0.874,0.383,0.178,0.027,2019
+DZ,DZA,Algeria_2018,Northern Africa,Algeria,5.295,0.979,1.154,0.687,0.077,0.055,0.135,2018
+DZ,DZA,Algeria_2019,Northern Africa,Algeria,5.211,1.002,1.16,0.785,0.086,0.073,0.114,2019
+AO,AGO,Angola_2018,Sub-Saharan Africa,Angola,3.795,0.73,1.125,0.269,0,0.079,0.061,2018
+AR,ARG,Argentina_2018,Latin America and the Caribbean,Argentina,6.388,1.073,1.468,0.744,0.57,0.062,0.054,2018
+AR,ARG,Argentina_2019,Latin America and the Caribbean,Argentina,6.086,1.092,1.432,0.881,0.471,0.066,0.05,2019
+AM,ARM,Armenia_2018,Western Asia,Armenia,4.321,0.816,0.99,0.666,0.26,0.077,0.028,2018
+AM,ARM,Armenia_2019,Western Asia,Armenia,4.559,0.85,1.055,0.815,0.283,0.095,0.064,2019
+AU,AUS,Australia_2018,Australia and New Zealand,Australia,7.272,1.34,1.573,0.91,0.647,0.361,0.302,2018
+AU,AUS,Australia_2019,Australia and New Zealand,Australia,7.228,1.372,1.548,1.036,0.557,0.332,0.29,2019
+AT,AUT,Austria_2018,Western Europe,Austria,7.139,1.341,1.504,0.891,0.617,0.242,0.224,2018
+AT,AUT,Austria_2019,Western Europe,Austria,7.246,1.376,1.475,1.016,0.532,0.244,0.226,2019
+AZ,AZE,Azerbaijan_2018,Western Asia,Azerbaijan,5.201,1.024,1.161,0.603,0.43,0.031,0.176,2018
+AZ,AZE,Azerbaijan_2019,Western Asia,Azerbaijan,5.208,1.043,1.147,0.769,0.351,0.035,0.182,2019
+BH,BHR,Bahrain_2018,Western Asia,Bahrain,6.105,1.338,1.366,0.698,0.594,0.243,0.123,2018
+BH,BHR,Bahrain_2019,Western Asia,Bahrain,6.199,1.362,1.368,0.871,0.536,0.255,0.11,2019
+BD,BGD,Bangladesh_2018,Southern Asia,Bangladesh,4.5,0.532,0.85,0.579,0.58,0.153,0.144,2018
+BD,BGD,Bangladesh_2019,Southern Asia,Bangladesh,4.456,0.562,0.928,0.723,0.527,0.166,0.143,2019
+BY,BLR,Belarus_2018,Eastern Europe,Belarus,5.483,1.039,1.498,0.7,0.307,0.101,0.154,2018
+BY,BLR,Belarus_2019,Eastern Europe,Belarus,5.323,1.067,1.465,0.789,0.235,0.094,0.142,2019
+BE,BEL,Belgium_2018,Western Europe,Belgium,6.927,1.324,1.483,0.894,0.583,0.188,0.24,2018
+BE,BEL,Belgium_2019,Western Europe,Belgium,6.923,1.356,1.504,0.986,0.473,0.16,0.21,2019
+BZ,BLZ,Belize_2018,Latin America and the Caribbean,Belize,5.956,0.807,1.101,0.474,0.593,0.183,0.089,2018
+BJ,BEN,Benin_2018,Sub-Saharan Africa,Benin,4.141,0.378,0.372,0.24,0.44,0.163,0.067,2018
+BJ,BEN,Benin_2019,Sub-Saharan Africa,Benin,4.883,0.393,0.437,0.397,0.349,0.175,0.082,2019
+BT,BTN,Bhutan_2018,Southern Asia,Bhutan,5.082,0.796,1.335,0.527,0.541,0.364,0.171,2018
+BT,BTN,Bhutan_2019,Southern Asia,Bhutan,5.082,0.813,1.321,0.604,0.457,0.37,0.167,2019
+BO,BOL,Bolivia_2018,Latin America and the Caribbean,Bolivia,5.752,0.751,1.223,0.508,0.606,0.141,0.054,2018
+BO,BOL,Bolivia_2019,Latin America and the Caribbean,Bolivia,5.779,0.776,1.209,0.706,0.511,0.137,0.064,2019
+BA,BIH,Bosnia and Herzegovina_2018,Southern Europe,Bosnia and Herzegovina,5.129,0.915,1.078,0.758,0.28,0.216,0,2018
+BA,BIH,Bosnia and Herzegovina_2019,Southern Europe,Bosnia and Herzegovina,5.386,0.945,1.212,0.845,0.212,0.263,0.006,2019
+BW,BWA,Botswana_2018,Sub-Saharan Africa,Botswana,3.59,1.017,1.174,0.417,0.557,0.042,0.092,2018
+BW,BWA,Botswana_2019,Sub-Saharan Africa,Botswana,3.488,1.041,1.145,0.538,0.455,0.025,0.1,2019
+BR,BRA,Brazil_2018,Latin America and the Caribbean,Brazil,6.419,0.986,1.474,0.675,0.493,0.11,0.088,2018
+BR,BRA,Brazil_2019,Latin America and the Caribbean,Brazil,6.3,1.004,1.439,0.802,0.39,0.099,0.086,2019
+BG,BGR,Bulgaria_2018,Eastern Europe,Bulgaria,4.933,1.054,1.515,0.712,0.359,0.064,0.009,2018
+BG,BGR,Bulgaria_2019,Eastern Europe,Bulgaria,5.011,1.092,1.513,0.815,0.311,0.081,0.004,2019
+BF,BFA,Burkina Faso_2018,Sub-Saharan Africa,Burkina Faso,4.424,0.314,1.097,0.254,0.312,0.175,0.128,2018
+BF,BFA,Burkina Faso_2019,Sub-Saharan Africa,Burkina Faso,4.587,0.331,1.056,0.38,0.255,0.177,0.113,2019
+BI,BDI,Burundi_2018,Sub-Saharan Africa,Burundi,2.905,0.091,0.627,0.145,0.065,0.149,0.076,2018
+BI,BDI,Burundi_2019,Sub-Saharan Africa,Burundi,3.775,0.046,0.447,0.38,0.22,0.176,0.18,2019
+KH,KHM,Cambodia_2018,South-eastern Asia,Cambodia,4.433,0.549,1.088,0.457,0.696,0.256,0.065,2018
+KH,KHM,Cambodia_2019,South-eastern Asia,Cambodia,4.7,0.574,1.122,0.637,0.609,0.232,0.062,2019
+CM,CMR,Cameroon_2018,Sub-Saharan Africa,Cameroon,4.975,0.535,0.891,0.182,0.454,0.183,0.043,2018
+CM,CMR,Cameroon_2019,Sub-Saharan Africa,Cameroon,5.044,0.549,0.91,0.331,0.381,0.187,0.037,2019
+CA,CAN,Canada_2018,Northern America,Canada,7.328,1.33,1.532,0.896,0.653,0.321,0.291,2018
+CA,CAN,Canada_2019,Northern America,Canada,7.278,1.365,1.505,1.039,0.584,0.285,0.308,2019
+CF,CAF,Central African Republic_2018,Sub-Saharan Africa,Central African Republic,3.083,0.024,0,0.01,0.305,0.218,0.038,2018
+CF,CAF,Central African Republic_2019,Sub-Saharan Africa,Central African Republic,3.083,0.026,0,0.105,0.225,0.235,0.035,2019
+TD,TCD,Chad_2018,Sub-Saharan Africa,Chad,4.301,0.358,0.907,0.053,0.189,0.181,0.06,2018
+TD,TCD,Chad_2019,Sub-Saharan Africa,Chad,4.35,0.35,0.766,0.192,0.174,0.198,0.078,2019
+CL,CHL,Chile_2018,Latin America and the Caribbean,Chile,6.476,1.131,1.331,0.808,0.431,0.197,0.061,2018
+CL,CHL,Chile_2019,Latin America and the Caribbean,Chile,6.444,1.159,1.369,0.92,0.357,0.187,0.056,2019
+CN,CHN,China_2018,Eastern Asia,China,5.246,0.989,1.142,0.799,0.597,0.029,0.103,2018
+CN,CHN,China_2019,Eastern Asia,China,5.191,1.029,1.125,0.893,0.521,0.058,0.1,2019
+CO,COL,Colombia_2018,Latin America and the Caribbean,Colombia,6.26,0.96,1.439,0.635,0.531,0.099,0.039,2018
+CO,COL,Colombia_2019,Latin America and the Caribbean,Colombia,6.125,0.985,1.41,0.841,0.47,0.099,0.034,2019
+KM,COM,Comoros_2019,Sub-Saharan Africa,Comoros,3.973,0.274,0.757,0.505,0.142,0.275,0.078,2019
+CD,COG,Congo_2018,Sub-Saharan Africa,Congo,4.559,0.682,0.811,0.343,0.514,0.091,0.077,2018
+CD,COG,Congo_2019,Sub-Saharan Africa,Congo,4.812,0.673,0.799,0.508,0.372,0.105,0.093,2019
+CR,CRI,Costa Rica_2018,Latin America and the Caribbean,Costa Rica,7.072,1.01,1.459,0.817,0.632,0.143,0.101,2018
+CR,CRI,Costa Rica_2019,Latin America and the Caribbean,Costa Rica,7.167,1.034,1.441,0.963,0.558,0.144,0.093,2019
+HR,HRV,Croatia_2018,Southern Europe,Croatia,5.321,1.115,1.161,0.737,0.38,0.12,0.039,2018
+HR,HRV,Croatia_2019,Southern Europe,Croatia,5.432,1.155,1.266,0.914,0.296,0.119,0.022,2019
+CZ,CZE,Czech Republic_2018,Eastern Europe,Czech Republic,6.711,1.233,1.489,0.854,0.543,0.064,0.034,2018
+CZ,CZE,Czech Republic_2019,Eastern Europe,Czech Republic,6.852,1.269,1.487,0.92,0.457,0.046,0.036,2019
+DK,DNK,Denmark_2018,Northern Europe,Denmark,7.555,1.351,1.59,0.868,0.683,0.284,0.408,2018
+DK,DNK,Denmark_2019,Northern Europe,Denmark,7.6,1.383,1.573,0.996,0.592,0.252,0.41,2019
+DO,DOM,Dominican Republic_2018,Latin America and the Caribbean,Dominican Republic,5.302,0.982,1.441,0.614,0.578,0.12,0.106,2018
+DO,DOM,Dominican Republic_2019,Latin America and the Caribbean,Dominican Republic,5.425,1.015,1.401,0.779,0.497,0.113,0.101,2019
+EC,ECU,Ecuador_2018,Latin America and the Caribbean,Ecuador,5.973,0.889,1.33,0.736,0.556,0.114,0.12,2018
+EC,ECU,Ecuador_2019,Latin America and the Caribbean,Ecuador,6.028,0.912,1.312,0.868,0.498,0.126,0.087,2019
+EG,EGY,Egypt_2018,Northern Africa,Egypt,4.419,0.885,1.025,0.553,0.312,0.092,0.107,2018
+EG,EGY,Egypt_2019,Northern Africa,Egypt,4.166,0.913,1.039,0.644,0.241,0.076,0.067,2019
+SV,SLV,El Salvador_2018,Latin America and the Caribbean,El Salvador,6.167,0.806,1.231,0.639,0.461,0.065,0.082,2018
+SV,SLV,El Salvador_2019,Latin America and the Caribbean,El Salvador,6.253,0.794,1.242,0.789,0.43,0.093,0.074,2019
+EE,EST,Estonia_2018,Northern Europe,Estonia,5.739,1.2,1.532,0.737,0.553,0.086,0.174,2018
+EE,EST,Estonia_2019,Northern Europe,Estonia,5.893,1.237,1.528,0.874,0.495,0.103,0.161,2019
+ET,ETH,Ethiopia_2018,Sub-Saharan Africa,Ethiopia,4.35,0.308,0.95,0.391,0.452,0.22,0.146,2018
+ET,ETH,Ethiopia_2019,Sub-Saharan Africa,Ethiopia,4.286,0.336,1.033,0.532,0.344,0.209,0.1,2019
+FI,FIN,Finland_2018,Northern Europe,Finland,7.632,1.305,1.592,0.874,0.681,0.202,0.393,2018
+FI,FIN,Finland_2019,Northern Europe,Finland,7.769,1.34,1.587,0.986,0.596,0.153,0.393,2019
+FR,FRA,France_2018,Western Europe,France,6.489,1.293,1.466,0.908,0.52,0.098,0.176,2018
+FR,FRA,France_2019,Western Europe,France,6.592,1.324,1.472,1.045,0.436,0.111,0.183,2019
+GA,GAB,Gabon_2018,Sub-Saharan Africa,Gabon,4.758,1.036,1.164,0.404,0.356,0.032,0.052,2018
+GA,GAB,Gabon_2019,Sub-Saharan Africa,Gabon,4.799,1.057,1.183,0.571,0.295,0.043,0.055,2019
+GM,GMB,Gambia_2019,Sub-Saharan Africa,Gambia,4.516,0.308,0.939,0.428,0.382,0.269,0.167,2019
+GE,GEO,Georgia_2018,Western Asia,Georgia,4.34,0.853,0.592,0.643,0.375,0.038,0.215,2018
+GE,GEO,Georgia_2019,Western Asia,Georgia,4.519,0.886,0.666,0.752,0.346,0.043,0.164,2019
+DE,DEU,Germany_2018,Western Europe,Germany,6.965,1.34,1.474,0.861,0.586,0.273,0.28,2018
+DE,DEU,Germany_2019,Western Europe,Germany,6.985,1.373,1.454,0.987,0.495,0.261,0.265,2019
+GH,GHA,Ghana_2018,Sub-Saharan Africa,Ghana,4.657,0.592,0.896,0.337,0.499,0.212,0.029,2018
+GH,GHA,Ghana_2019,Sub-Saharan Africa,Ghana,4.996,0.611,0.868,0.486,0.381,0.245,0.04,2019
+GR,GRC,Greece_2018,Southern Europe,Greece,5.358,1.154,1.202,0.879,0.131,0,0.044,2018
+GR,GRC,Greece_2019,Southern Europe,Greece,5.287,1.181,1.156,0.999,0.067,0,0.034,2019
+GT,GTM,Guatemala_2018,Latin America and the Caribbean,Guatemala,6.382,0.781,1.268,0.608,0.604,0.179,0.071,2018
+GT,GTM,Guatemala_2019,Latin America and the Caribbean,Guatemala,6.436,0.8,1.269,0.746,0.535,0.175,0.078,2019
+GN,GIN,Guinea_2018,Sub-Saharan Africa,Guinea,3.964,0.344,0.792,0.211,0.394,0.185,0.094,2018
+GN,GIN,Guinea_2019,Sub-Saharan Africa,Guinea,4.534,0.38,0.829,0.375,0.332,0.207,0.086,2019
+HT,HTI,Haiti_2018,Latin America and the Caribbean,Haiti,3.582,0.315,0.714,0.289,0.025,0.392,0.104,2018
+HT,HTI,Haiti_2019,Latin America and the Caribbean,Haiti,3.597,0.323,0.688,0.449,0.026,0.419,0.11,2019
+HN,HND,Honduras_2018,Latin America and the Caribbean,Honduras,5.504,0.62,1.205,0.622,0.459,0.197,0.074,2018
+HN,HND,Honduras_2019,Latin America and the Caribbean,Honduras,5.86,0.642,1.236,0.828,0.507,0.246,0.078,2019
+HK,HKG,Hong Kong_2018,Eastern Asia,Hong Kong,5.43,1.405,1.29,1.03,0.524,0.246,0.291,2018
+HK,HKG,Hong Kong_2019,Eastern Asia,Hong Kong,5.43,1.438,1.277,1.122,0.44,0.258,0.287,2019
+HU,HUN,Hungary_2018,Eastern Europe,Hungary,5.62,1.171,1.401,0.732,0.259,0.061,0.022,2018
+HU,HUN,Hungary_2019,Eastern Europe,Hungary,5.758,1.201,1.41,0.828,0.199,0.081,0.02,2019
+IS,ISL,Iceland_2018,Northern Europe,Iceland,7.495,1.343,1.644,0.914,0.677,0.353,0.138,2018
+IS,ISL,Iceland_2019,Northern Europe,Iceland,7.494,1.38,1.624,1.026,0.591,0.354,0.118,2019
+IN,IND,India_2018,Southern Asia,India,4.19,0.721,0.747,0.485,0.539,0.172,0.093,2018
+IN,IND,India_2019,Southern Asia,India,4.015,0.755,0.765,0.588,0.498,0.2,0.085,2019
+ID,IDN,Indonesia_2018,South-eastern Asia,Indonesia,5.093,0.899,1.215,0.522,0.538,0.484,0.018,2018
+ID,IDN,Indonesia_2019,South-eastern Asia,Indonesia,5.192,0.931,1.203,0.66,0.491,0.498,0.028,2019
+IR,IRN,Iran_2018,Southern Asia,Iran,4.707,1.059,0.771,0.691,0.459,0.282,0.129,2018
+IR,IRN,Iran_2019,Southern Asia,Iran,4.548,1.1,0.842,0.785,0.305,0.27,0.125,2019
+IQ,IRQ,Iraq_2018,Western Asia,Iraq,4.456,1.01,0.971,0.536,0.304,0.148,0.095,2018
+IQ,IRQ,Iraq_2019,Western Asia,Iraq,4.437,1.043,0.98,0.574,0.241,0.148,0.089,2019
+IE,IRL,Ireland_2018,Northern Europe,Ireland,6.977,1.448,1.583,0.876,0.614,0.307,0.306,2018
+IE,IRL,Ireland_2019,Northern Europe,Ireland,7.021,1.499,1.553,0.999,0.516,0.298,0.31,2019
+IL,ISR,Israel_2018,Western Asia,Israel,6.814,1.301,1.559,0.883,0.533,0.354,0.272,2018
+IL,ISR,Israel_2019,Western Asia,Israel,7.139,1.276,1.455,1.029,0.371,0.261,0.082,2019
+IT,ITA,Italy_2018,Southern Europe,Italy,6,1.264,1.501,0.946,0.281,0.137,0.028,2018
+IT,ITA,Italy_2019,Southern Europe,Italy,6.223,1.294,1.488,1.039,0.231,0.158,0.03,2019
+CI,CIV,Ivory Coast_2018,Sub-Saharan Africa,Ivory Coast,4.671,0.541,0.872,0.08,0.467,0.146,0.103,2018
+CI,CIV,Ivory Coast_2019,Sub-Saharan Africa,Ivory Coast,4.944,0.569,0.808,0.232,0.352,0.154,0.09,2019
+JM,JAM,Jamaica_2018,Latin America and the Caribbean,Jamaica,5.89,0.819,1.493,0.693,0.575,0.096,0.031,2018
+JM,JAM,Jamaica_2019,Latin America and the Caribbean,Jamaica,5.89,0.831,1.478,0.831,0.49,0.107,0.028,2019
+JP,JPN,Japan_2018,Eastern Asia,Japan,5.915,1.294,1.462,0.988,0.553,0.079,0.15,2018
+JP,JPN,Japan_2019,Eastern Asia,Japan,5.886,1.327,1.419,1.088,0.445,0.069,0.14,2019
+JO,JOR,Jordan_2018,Western Asia,Jordan,5.161,0.822,1.265,0.645,0.468,0.13,0.134,2018
+JO,JOR,Jordan_2019,Western Asia,Jordan,4.906,0.837,1.225,0.815,0.383,0.11,0.13,2019
+KZ,KAZ,Kazakhstan_2018,Central Asia,Kazakhstan,5.79,1.143,1.516,0.631,0.454,0.148,0.121,2018
+KZ,KAZ,Kazakhstan_2019,Central Asia,Kazakhstan,5.809,1.173,1.508,0.729,0.41,0.146,0.096,2019
+KE,KEN,Kenya_2018,Sub-Saharan Africa,Kenya,4.41,0.493,1.048,0.454,0.504,0.352,0.055,2018
+KE,KEN,Kenya_2019,Sub-Saharan Africa,Kenya,4.509,0.512,0.983,0.581,0.431,0.372,0.053,2019
+XK,XXK,Kosovo_2018,Southern Europe,Kosovo,5.662,0.855,1.23,0.578,0.448,0.274,0.023,2018
+XK,XXK,Kosovo_2019,Southern Europe,Kosovo,6.1,0.882,1.232,0.758,0.489,0.262,0.006,2019
+KW,KWT,Kuwait_2018,Western Asia,Kuwait,6.083,1.474,1.301,0.675,0.554,0.167,0.106,2018
+KW,KWT,Kuwait_2019,Western Asia,Kuwait,6.021,1.5,1.319,0.808,0.493,0.142,0.097,2019
+KG,KGZ,Kyrgyzstan_2018,Central Asia,Kyrgyzstan,5.131,0.53,1.416,0.594,0.54,0.281,0.035,2018
+KG,KGZ,Kyrgyzstan_2019,Central Asia,Kyrgyzstan,5.261,0.551,1.438,0.723,0.508,0.3,0.023,2019
+LA,LAO,Laos_2018,South-eastern Asia,Laos,4.623,0.72,1.034,0.441,0.626,0.23,0.174,2018
+LA,LAO,Laos_2019,South-eastern Asia,Laos,4.796,0.764,1.03,0.551,0.547,0.266,0.164,2019
+LV,LVA,Latvia_2018,Northern Europe,Latvia,5.933,1.148,1.454,0.671,0.363,0.092,0.066,2018
+LV,LVA,Latvia_2019,Northern Europe,Latvia,5.94,1.187,1.465,0.812,0.264,0.075,0.064,2019
+LB,LBN,Lebanon_2018,Western Asia,Lebanon,5.358,0.965,1.179,0.785,0.503,0.214,0.136,2018
+LB,LBN,Lebanon_2019,Western Asia,Lebanon,5.197,0.987,1.224,0.815,0.216,0.166,0.027,2019
+LS,LSO,Lesotho_2018,Sub-Saharan Africa,Lesotho,3.808,0.472,1.215,0.079,0.423,0.116,0.112,2018
+LS,LSO,Lesotho_2019,Sub-Saharan Africa,Lesotho,3.802,0.489,1.169,0.168,0.359,0.107,0.093,2019
+LR,LBR,Liberia_2018,Sub-Saharan Africa,Liberia,3.495,0.076,0.858,0.267,0.419,0.206,0.03,2018
+LR,LBR,Liberia_2019,Sub-Saharan Africa,Liberia,3.975,0.073,0.922,0.443,0.37,0.233,0.033,2019
+LY,LBY,Libya_2018,Northern Africa,Libya,5.566,0.985,1.35,0.553,0.496,0.116,0.148,2018
+LY,LBY,Libya_2019,Northern Africa,Libya,5.525,1.044,1.303,0.673,0.416,0.133,0.152,2019
+LT,LTU,Lithuania_2018,Northern Europe,Lithuania,5.952,1.197,1.527,0.716,0.35,0.026,0.006,2018
+LT,LTU,Lithuania_2019,Northern Europe,Lithuania,6.149,1.238,1.515,0.818,0.291,0.043,0.042,2019
+LU,LUX,Luxembourg_2018,Western Europe,Luxembourg,6.91,1.576,1.52,0.896,0.632,0.196,0.321,2018
+LU,LUX,Luxembourg_2019,Western Europe,Luxembourg,7.09,1.609,1.479,1.012,0.526,0.194,0.316,2019
+MK,MKD,Macedonia_2018,Southern Europe,Macedonia,5.185,0.959,1.239,0.691,0.394,0.173,0.052,2018
+MK,MKD,Macedonia_2019,Southern Europe,Macedonia,5.274,0.983,1.294,0.838,0.345,0.185,0.034,2019
+MG,MDG,Madagascar_2018,Sub-Saharan Africa,Madagascar,3.774,0.262,0.908,0.402,0.221,0.155,0.049,2018
+MG,MDG,Madagascar_2019,Sub-Saharan Africa,Madagascar,3.933,0.274,0.916,0.555,0.148,0.169,0.041,2019
+MW,MWI,Malawi_2018,Sub-Saharan Africa,Malawi,3.587,0.186,0.541,0.306,0.531,0.21,0.08,2018
+MW,MWI,Malawi_2019,Sub-Saharan Africa,Malawi,3.41,0.191,0.56,0.495,0.443,0.218,0.089,2019
+MY,MYS,Malaysia_2018,South-eastern Asia,Malaysia,6.322,1.161,1.258,0.669,0.356,0.311,0.059,2018
+MY,MYS,Malaysia_2019,South-eastern Asia,Malaysia,5.339,1.221,1.171,0.828,0.508,0.26,0.024,2019
+ML,MLI,Mali_2018,Sub-Saharan Africa,Mali,4.447,0.37,1.233,0.152,0.367,0.139,0.056,2018
+ML,MLI,Mali_2019,Sub-Saharan Africa,Mali,4.39,0.385,1.105,0.308,0.327,0.153,0.052,2019
+MT,MLT,Malta_2018,Southern Europe,Malta,6.627,1.27,1.525,0.884,0.645,0.376,0.142,2018
+MT,MLT,Malta_2019,Southern Europe,Malta,6.726,1.3,1.52,0.999,0.564,0.375,0.151,2019
+MR,MRT,Mauritania_2018,Sub-Saharan Africa,Mauritania,4.356,0.557,1.245,0.292,0.129,0.134,0.093,2018
+MR,MRT,Mauritania_2019,Sub-Saharan Africa,Mauritania,4.49,0.57,1.167,0.489,0.066,0.106,0.088,2019
+MU,MUS,Mauritius_2018,Sub-Saharan Africa,Mauritius,5.891,1.09,1.387,0.684,0.584,0.245,0.05,2018
+MU,MUS,Mauritius_2019,Sub-Saharan Africa,Mauritius,5.888,1.12,1.402,0.798,0.498,0.215,0.06,2019
+MX,MEX,Mexico_2018,Latin America and the Caribbean,Mexico,6.488,1.038,1.252,0.761,0.479,0.069,0.095,2018
+MX,MEX,Mexico_2019,Latin America and the Caribbean,Mexico,6.595,1.07,1.323,0.861,0.433,0.074,0.073,2019
+MD,MDA,Moldova_2018,Eastern Europe,Moldova,5.64,0.657,1.301,0.62,0.232,0.171,0,2018
+MD,MDA,Moldova_2019,Eastern Europe,Moldova,5.529,0.685,1.328,0.739,0.245,0.181,0,2019
+MN,MNG,Mongolia_2018,Eastern Asia,Mongolia,5.125,0.914,1.517,0.575,0.395,0.253,0.032,2018
+MN,MNG,Mongolia_2019,Eastern Asia,Mongolia,5.285,0.948,1.531,0.667,0.317,0.235,0.038,2019
+ME,MNE,Montenegro_2018,Southern Europe,Montenegro,5.347,1.017,1.279,0.729,0.259,0.111,0.081,2018
+ME,MNE,Montenegro_2019,Southern Europe,Montenegro,5.523,1.051,1.361,0.871,0.197,0.142,0.08,2019
+MA,MAR,Morocco_2018,Northern Africa,Morocco,5.254,0.779,0.797,0.669,0.46,0.026,0.074,2018
+MA,MAR,Morocco_2019,Northern Africa,Morocco,5.208,0.801,0.782,0.782,0.418,0.036,0.076,2019
+MZ,MOZ,Mozambique_2018,Sub-Saharan Africa,Mozambique,4.417,0.198,0.902,0.173,0.531,0.206,0.158,2018
+MZ,MOZ,Mozambique_2019,Sub-Saharan Africa,Mozambique,4.466,0.204,0.986,0.39,0.494,0.197,0.138,2019
+MM,MMR,Myanmar_2018,South-eastern Asia,Myanmar,4.308,0.682,1.174,0.429,0.58,0.598,0.178,2018
+MM,MMR,Myanmar_2019,South-eastern Asia,Myanmar,4.36,0.71,1.181,0.555,0.525,0.566,0.172,2019
+NA,NAM,Namibia_2018,Sub-Saharan Africa,Namibia,4.441,0.874,1.281,0.365,0.519,0.051,0.064,2018
+NA,NAM,Namibia_2019,Sub-Saharan Africa,Namibia,4.639,0.879,1.313,0.477,0.401,0.07,0.056,2019
+NP,NPL,Nepal_2018,Southern Asia,Nepal,4.88,0.425,1.228,0.539,0.526,0.302,0.078,2018
+NP,NPL,Nepal_2019,Southern Asia,Nepal,4.913,0.446,1.226,0.677,0.439,0.285,0.089,2019
+NL,NLD,Netherlands_2018,Western Europe,Netherlands,7.441,1.361,1.488,0.878,0.638,0.333,0.295,2018
+NL,NLD,Netherlands_2019,Western Europe,Netherlands,7.488,1.396,1.522,0.999,0.557,0.322,0.298,2019
+NZ,NZL,New Zealand_2018,Australia and New Zealand,New Zealand,7.324,1.268,1.601,0.876,0.669,0.365,0.389,2018
+NZ,NZL,New Zealand_2019,Australia and New Zealand,New Zealand,7.307,1.303,1.557,1.026,0.585,0.33,0.38,2019
+NI,NIC,Nicaragua_2018,Latin America and the Caribbean,Nicaragua,6.141,0.668,1.319,0.7,0.527,0.208,0.128,2018
+NI,NIC,Nicaragua_2019,Latin America and the Caribbean,Nicaragua,6.105,0.694,1.325,0.835,0.435,0.2,0.127,2019
+NE,NER,Niger_2018,Sub-Saharan Africa,Niger,4.166,0.131,0.867,0.221,0.39,0.175,0.099,2018
+NE,NER,Niger_2019,Sub-Saharan Africa,Niger,4.628,0.138,0.774,0.366,0.318,0.188,0.102,2019
+NG,NGA,Nigeria_2018,Sub-Saharan Africa,Nigeria,5.155,0.689,1.172,0.048,0.462,0.201,0.032,2018
+NG,NGA,Nigeria_2019,Sub-Saharan Africa,Nigeria,5.265,0.696,1.111,0.245,0.426,0.215,0.041,2019
+CY,CYP,Northern Cyprus_2018,Western Asia,Northern Cyprus,5.835,1.229,1.211,0.909,0.495,0.179,0.154,2018
+CY,CYP,Northern Cyprus_2019,Western Asia,Northern Cyprus,5.718,1.263,1.252,1.042,0.417,0.191,0.162,2019
+NO,NOR,Norway_2018,Northern Europe,Norway,7.594,1.456,1.582,0.861,0.686,0.286,0.34,2018
+NO,NOR,Norway_2019,Northern Europe,Norway,7.554,1.488,1.582,1.028,0.603,0.271,0.341,2019
+PK,PAK,Pakistan_2018,Southern Asia,Pakistan,5.472,0.652,0.81,0.424,0.334,0.216,0.113,2018
+PK,PAK,Pakistan_2019,Southern Asia,Pakistan,5.653,0.677,0.886,0.535,0.313,0.22,0.098,2019
+PS,PSE,Palestinian Territories_2018,Western Asia,Palestinian Territories,4.743,0.642,1.217,0.602,0.266,0.086,0.076,2018
+PS,PSE,Palestinian Territories_2019,Western Asia,Palestinian Territories,4.696,0.657,1.247,0.672,0.225,0.103,0.066,2019
+PA,PAN,Panama_2018,Latin America and the Caribbean,Panama,6.43,1.112,1.438,0.759,0.597,0.125,0.063,2018
+PA,PAN,Panama_2019,Latin America and the Caribbean,Panama,6.321,1.149,1.442,0.91,0.516,0.109,0.054,2019
+PY,PRY,Paraguay_2018,Latin America and the Caribbean,Paraguay,5.681,0.835,1.522,0.615,0.541,0.162,0.074,2018
+PY,PRY,Paraguay_2019,Latin America and the Caribbean,Paraguay,5.743,0.855,1.475,0.777,0.514,0.184,0.08,2019
+PE,PER,Peru_2018,Latin America and the Caribbean,Peru,5.663,0.934,1.249,0.674,0.53,0.092,0.034,2018
+PE,PER,Peru_2019,Latin America and the Caribbean,Peru,5.697,0.96,1.274,0.854,0.455,0.083,0.027,2019
+PH,PHL,Philippines_2018,South-eastern Asia,Philippines,5.524,0.775,1.312,0.513,0.643,0.12,0.105,2018
+PH,PHL,Philippines_2019,South-eastern Asia,Philippines,5.631,0.807,1.293,0.657,0.558,0.117,0.107,2019
+PL,POL,Poland_2018,Eastern Europe,Poland,6.123,1.176,1.448,0.781,0.546,0.108,0.064,2018
+PL,POL,Poland_2019,Eastern Europe,Poland,6.182,1.206,1.438,0.884,0.483,0.117,0.05,2019
+PT,PRT,Portugal_2018,Southern Europe,Portugal,5.41,1.188,1.429,0.884,0.562,0.055,0.017,2018
+PT,PRT,Portugal_2019,Southern Europe,Portugal,5.693,1.221,1.431,0.999,0.508,0.047,0.025,2019
+QA,QAT,Qatar_2018,Western Asia,Qatar,6.374,1.649,1.303,0.748,0.654,0.256,0.171,2018
+QA,QAT,Qatar_2019,Western Asia,Qatar,6.374,1.684,1.313,0.871,0.555,0.22,0.167,2019
+RO,ROU,Romania_2018,Eastern Europe,Romania,5.945,1.116,1.219,0.726,0.528,0.088,0.001,2018
+RO,ROU,Romania_2019,Eastern Europe,Romania,6.07,1.162,1.232,0.825,0.462,0.083,0.005,2019
+RU,RUS,Russia_2018,Eastern Europe,Russia,5.81,1.151,1.479,0.599,0.399,0.065,0.025,2018
+RU,RUS,Russia_2019,Eastern Europe,Russia,5.648,1.183,1.452,0.726,0.334,0.082,0.031,2019
+RW,RWA,Rwanda_2018,Sub-Saharan Africa,Rwanda,3.408,0.332,0.896,0.4,0.636,0.2,0.444,2018
+RW,RWA,Rwanda_2019,Sub-Saharan Africa,Rwanda,3.334,0.359,0.711,0.614,0.555,0.217,0.411,2019
+SA,SAU,Saudi Arabia_2018,Western Asia,Saudi Arabia,6.371,1.379,1.331,0.633,0.509,0.098,0.127,2018
+SA,SAU,Saudi Arabia_2019,Western Asia,Saudi Arabia,6.375,1.403,1.357,0.795,0.439,0.08,0.132,2019
+SN,SEN,Senegal_2018,Sub-Saharan Africa,Senegal,4.631,0.429,1.117,0.433,0.406,0.138,0.082,2018
+SN,SEN,Senegal_2019,Sub-Saharan Africa,Senegal,4.681,0.45,1.134,0.571,0.292,0.153,0.072,2019
+RS,SRB,Serbia_2018,Southern Europe,Serbia,5.398,0.975,1.369,0.685,0.288,0.134,0.043,2018
+RS,SRB,Serbia_2019,Southern Europe,Serbia,5.603,1.004,1.383,0.854,0.282,0.137,0.039,2019
+SL,SLE,Sierra Leone_2018,Sub-Saharan Africa,Sierra Leone,4.571,0.256,0.813,0,0.355,0.238,0.053,2018
+SL,SLE,Sierra Leone_2019,Sub-Saharan Africa,Sierra Leone,4.374,0.268,0.841,0.242,0.309,0.252,0.045,2019
+SG,SGP,Singapore_2018,South-eastern Asia,Singapore,6.343,1.529,1.451,1.008,0.631,0.261,0.457,2018
+SG,SGP,Singapore_2019,South-eastern Asia,Singapore,6.262,1.572,1.463,1.141,0.556,0.271,0.453,2019
+SK,SVK,Slovakia_2018,Eastern Europe,Slovakia,6.173,1.21,1.537,0.776,0.354,0.118,0.014,2018
+SK,SVK,Slovakia_2019,Eastern Europe,Slovakia,6.198,1.246,1.504,0.881,0.334,0.121,0.014,2019
+SI,SVN,Slovenia_2018,Southern Europe,Slovenia,5.948,1.219,1.506,0.856,0.633,0.16,0.051,2018
+SI,SVN,Slovenia_2019,Southern Europe,Slovenia,6.118,1.258,1.523,0.953,0.564,0.144,0.057,2019
+SO,SOM,Somalia_2018,Sub-Saharan Africa,Somalia,4.982,0,0.712,0.115,0.674,0.238,0.282,2018
+SO,SOM,Somalia_2019,Sub-Saharan Africa,Somalia,4.668,0,0.698,0.268,0.559,0.243,0.27,2019
+ZA,ZAF,South Africa_2018,Sub-Saharan Africa,South Africa,4.724,0.94,1.41,0.33,0.516,0.103,0.056,2018
+ZA,ZAF,South Africa_2019,Sub-Saharan Africa,South Africa,4.722,0.96,1.351,0.469,0.389,0.13,0.055,2019
+KR,KOR,South Korea_2018,Eastern Asia,South Korea,5.875,1.266,1.204,0.955,0.244,0.175,0.051,2018
+KR,KOR,South Korea_2019,Eastern Asia,South Korea,5.895,1.301,1.219,1.036,0.159,0.175,0.056,2019
+SS,SSD,South Sudan_2018,Sub-Saharan Africa,South Sudan,3.254,0.337,0.608,0.177,0.112,0.224,0.106,2018
+SS,SSD,South Sudan_2019,Sub-Saharan Africa,South Sudan,2.853,0.306,0.575,0.295,0.01,0.202,0.091,2019
+ES,ESP,Spain_2018,Southern Europe,Spain,6.31,1.251,1.538,0.965,0.449,0.142,0.074,2018
+ES,ESP,Spain_2019,Southern Europe,Spain,6.354,1.286,1.484,1.062,0.362,0.153,0.079,2019
+LK,LKA,Sri Lanka_2018,Southern Asia,Sri Lanka,4.471,0.918,1.314,0.672,0.585,0.307,0.05,2018
+LK,LKA,Sri Lanka_2019,Southern Asia,Sri Lanka,4.366,0.949,1.265,0.831,0.47,0.244,0.047,2019
+SD,SDN,Sudan_2018,Northern Africa,Sudan,4.139,0.605,1.24,0.312,0.016,0.134,0.082,2018
+SZ,SWZ,Swaziland_2019,Sub-Saharan Africa,Swaziland,4.212,0.811,1.149,0,0.313,0.074,0.135,2019
+SE,SWE,Sweden_2018,Northern Europe,Sweden,7.314,1.355,1.501,0.913,0.659,0.285,0.383,2018
+SE,SWE,Sweden_2019,Northern Europe,Sweden,7.343,1.387,1.487,1.009,0.574,0.267,0.373,2019
+CH,CHE,Switzerland_2018,Western Europe,Switzerland,7.487,1.42,1.549,0.927,0.66,0.256,0.357,2018
+CH,CHE,Switzerland_2019,Western Europe,Switzerland,7.48,1.452,1.526,1.052,0.572,0.263,0.343,2019
+SY,SYR,Syria_2018,Western Asia,Syria,3.462,0.689,0.382,0.539,0.088,0.376,0.144,2018
+SY,SYR,Syria_2019,Western Asia,Syria,3.462,0.619,0.378,0.44,0.013,0.331,0.141,2019
+TW,TWN,Taiwan_2018,Eastern Asia,Taiwan,6.441,1.365,1.436,0.857,0.418,0.151,0.078,2018
+TW,TWN,Taiwan_2019,Eastern Asia,Taiwan,6.446,1.368,1.43,0.914,0.351,0.242,0.097,2019
+TJ,TJK,Tajikistan_2018,Central Asia,Tajikistan,5.199,0.474,1.166,0.598,0.292,0.187,0.034,2018
+TJ,TJK,Tajikistan_2019,Central Asia,Tajikistan,5.467,0.493,1.098,0.718,0.389,0.23,0.144,2019
+TZ,TZA,Tanzania_2018,Sub-Saharan Africa,Tanzania,3.303,0.455,0.991,0.381,0.481,0.27,0.097,2018
+TZ,TZA,Tanzania_2019,Sub-Saharan Africa,Tanzania,3.231,0.476,0.885,0.499,0.417,0.276,0.147,2019
+TH,THA,Thailand_2018,South-eastern Asia,Thailand,6.072,1.016,1.417,0.707,0.637,0.364,0.029,2018
+TH,THA,Thailand_2019,South-eastern Asia,Thailand,6.008,1.05,1.409,0.828,0.557,0.359,0.028,2019
+TG,TGO,Togo_2018,Sub-Saharan Africa,Togo,3.999,0.259,0.474,0.253,0.434,0.158,0.101,2018
+TG,TGO,Togo_2019,Sub-Saharan Africa,Togo,4.085,0.275,0.572,0.41,0.293,0.177,0.085,2019
+TT,TTO,Trinidad & Tobago_2018,Latin America and the Caribbean,Trinidad & Tobago,6.192,1.223,1.492,0.564,0.575,0.171,0.019,2018
+TT,TTO,Trinidad & Tobago_2019,Latin America and the Caribbean,Trinidad & Tobago,6.192,1.231,1.477,0.713,0.489,0.185,0.016,2019
+TN,TUN,Tunisia_2018,Northern Africa,Tunisia,4.592,0.9,0.906,0.69,0.271,0.04,0.063,2018
+TN,TUN,Tunisia_2019,Northern Africa,Tunisia,4.461,0.921,1,0.815,0.167,0.059,0.055,2019
+TR,TUR,Turkey_2018,Western Asia,Turkey,5.483,1.148,1.38,0.686,0.324,0.106,0.109,2018
+TR,TUR,Turkey_2019,Western Asia,Turkey,5.373,1.183,1.36,0.808,0.195,0.083,0.106,2019
+TM,TKM,Turkmenistan_2018,Central Asia,Turkmenistan,5.636,1.016,1.533,0.517,0.417,0.199,0.037,2018
+TM,TKM,Turkmenistan_2019,Central Asia,Turkmenistan,5.247,1.052,1.538,0.657,0.394,0.244,0.028,2019
+UG,UGA,Uganda_2018,Sub-Saharan Africa,Uganda,4.161,0.322,1.09,0.237,0.45,0.259,0.061,2018
+UG,UGA,Uganda_2019,Sub-Saharan Africa,Uganda,4.189,0.332,1.069,0.443,0.356,0.252,0.06,2019
+UA,UKR,Ukraine_2018,Eastern Europe,Ukraine,4.103,0.793,1.413,0.609,0.163,0.187,0.011,2018
+UA,UKR,Ukraine_2019,Eastern Europe,Ukraine,4.332,0.82,1.39,0.739,0.178,0.187,0.01,2019
+AE,ARE,United Arab Emirates_2018,Western Asia,United Arab Emirates,6.774,2.096,0.776,0.67,0.284,0.186,N/A,2018
+AE,ARE,United Arab Emirates_2019,Western Asia,United Arab Emirates,6.825,1.503,1.31,0.825,0.598,0.262,0.182,2019
+GB,GBR,United Kingdom_2018,Northern Europe,United Kingdom,7.19,1.244,1.433,0.888,0.464,0.262,0.082,2018
+GB,GBR,United Kingdom_2019,Northern Europe,United Kingdom,7.054,1.333,1.538,0.996,0.45,0.348,0.278,2019
+US,USA,United States of America_2019,Northern America,United States of America,6.892,1.433,1.457,0.874,0.454,0.28,0.128,2019
+US,USA,United States of America_2018,Northern America,United States of America,6.886,1.398,1.471,0.819,0.547,0.291,0.133,2018
+UY,URY,Uruguay_2018,Latin America and the Caribbean,Uruguay,6.379,1.093,1.459,0.771,0.625,0.13,0.155,2018
+UY,URY,Uruguay_2019,Latin America and the Caribbean,Uruguay,6.293,1.124,1.465,0.891,0.523,0.127,0.15,2019
+UZ,UZB,Uzbekistan_2018,Central Asia,Uzbekistan,6.096,0.719,1.584,0.605,0.724,0.328,0.259,2018
+UZ,UZB,Uzbekistan_2019,Central Asia,Uzbekistan,6.174,0.745,1.529,0.756,0.631,0.322,0.24,2019
+VE,VEN,Venezuela_2018,Latin America and the Caribbean,Venezuela,4.806,0.996,1.469,0.657,0.133,0.056,0.052,2018
+VE,VEN,Venezuela_2019,Latin America and the Caribbean,Venezuela,4.707,0.96,1.427,0.805,0.154,0.064,0.047,2019
+VN,VNM,Vietnam_2018,South-eastern Asia,Vietnam,5.103,0.715,1.365,0.702,0.618,0.177,0.079,2018
+VN,VNM,Vietnam_2019,South-eastern Asia,Vietnam,5.175,0.741,1.346,0.851,0.543,0.147,0.073,2019
+YE,YEM,Yemen_2018,Western Asia,Yemen,3.355,0.442,1.073,0.343,0.244,0.083,0.064,2018
+YE,YEM,Yemen_2019,Western Asia,Yemen,3.38,0.287,1.163,0.463,0.143,0.108,0.077,2019
+ZM,ZMB,Zambia_2018,Sub-Saharan Africa,Zambia,4.377,0.562,1.047,0.295,0.503,0.221,0.082,2018
+ZM,ZMB,Zambia_2019,Sub-Saharan Africa,Zambia,4.107,0.578,1.058,0.426,0.431,0.247,0.087,2019
+ZW,ZWE,Zimbabwe_2018,Sub-Saharan Africa,Zimbabwe,3.692,0.357,1.094,0.248,0.406,0.132,0.099,2018
+ZW,ZWE,Zimbabwe_2019,Sub-Saharan Africa,Zimbabwe,3.663,0.366,1.114,0.433,0.361,0.151,0.089,2019

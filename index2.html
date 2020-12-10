@@ -1,0 +1,204 @@
+<html>
+<head>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js"></script>
+  <script src="https://cdn.anychart.com/geodata/latest/custom/world/world.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"></script>
+  <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css" type="text/css" rel="stylesheet">
+  <link href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css" type="text/css" rel="stylesheet">
+  <style type="text/css">
+
+    html,
+    body,
+    #container {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .anychart-tooltip {
+      padding: 15px;
+      background: white;
+      color: #333;
+      box-shadow: 2px 2px 5px #333;
+      border-radius: 0;
+    }
+  
+</style>
+</head>
+<body>
+  
+  <div id="container"></div>
+  
+
+  <script>
+
+    anychart.onDocumentReady(function () {
+      // The data used in this sample can be obtained from the CDN
+      // https://cdn.anychart.com/samples/maps-choropleth/world-governments-map/data.json
+      anychart.data.loadJsonFile(
+        'https://cdn.anychart.com/samples/maps-choropleth/world-governments-map/data.json',
+        function (data) {
+          var palette = anychart.palettes
+            .distinctColors()
+            .items([
+              '#fff59d',
+              '#fbc02d',
+              '#ff8f00',
+              '#ef6c00',
+              '#bbdefb',
+              '#64b5f6',
+              '#42a5f5',
+              '#1976d2',
+              '#0097a7',
+              '#00838f'
+            ]);
+
+          var governmentTypes = [
+            'Single-party state',
+            'Absolute monarchy',
+            'Constitutional monarchy',
+            'Presidential republic',
+            'Parliamentary republic',
+            'Presidential constitutional republic',
+            'Parliamentary constitutional republic',
+            'Semi-presidential republic',
+            'Other'
+          ];
+
+          var dataSet = anychart.data.set(data);
+          var countryGovernmentData = dataSet.mapAs();
+
+          var filterConstructor = function (target) {
+            return function (val) {
+              if (target.toString() === 'Other') {
+                return governmentTypes.indexOf(val) < 0;
+              }
+              return val === target;
+            };
+          };
+
+          var map = anychart.map();
+          map.palette(palette);
+
+          map
+            .title()
+            .enabled(true)
+            .useHtml(true)
+            .fontSize(16)
+            .padding(10, 0, 30, 0)
+            .text(
+              'Countries by System of Government' +
+              '<br/><span  style="color:#929292; font-size: 12px;">(Data was collected from Wikipedia country articles, 2015)</span>'
+            );
+
+          map
+            .credits()
+            .enabled(true)
+            .url(
+              'https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government'
+            )
+            .text(
+              'Data source: https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government'
+            )
+            .logoSrc('https://en.wikipedia.org/static/favicon/wikipedia.ico');
+
+          var seriesCount = governmentTypes.length;
+          for (var i = 0; i < seriesCount; i++) {
+            var filteredData = countryGovernmentData.filter(
+              'value',
+              filterConstructor(governmentTypes[i])
+            );
+            var series = map.choropleth(filteredData);
+            series
+              .name(governmentTypes[i])
+              .geoIdField('iso_a2')
+              .stroke(anychart.color.darken(map.palette().itemAt(i)));
+            series.hovered().fill(series.fill()).stroke(series.stroke());
+          }
+
+          map
+            .geoData('anychart.maps.world')
+            .labels(false)
+            .interactivity({ selectionMode: 'none' });
+          map
+            .legend()
+            .enabled(true)
+            .position('right')
+            .align('top')
+            .itemsLayout('vertical')
+            .padding(50, 0, 0, 20)
+            .paginator(false);
+
+          // set tooltip settings
+          map
+            .tooltip()
+            .useHtml(true)
+            .title({ fontColor: '#7c868e' })
+            .titleFormat(function () {
+              return this.name;
+            })
+            .format(function () {
+              return (
+                '<span style="color: #545f69; font-size: 12px">' +
+                this.value +
+                '</span>'
+              );
+            });
+          map
+            .tooltip()
+            .background()
+            .enabled(true)
+            .fill('#fff')
+            .stroke('#c1c1c1')
+            .corners(3)
+            .cornerType('round');
+
+          var legend = map.legend();
+          var legendFlag = false;
+
+          legend.listen('legendItemClick', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var clickedSeries = map.getSeries(e.itemIndex);
+            var series;
+            var i;
+            if (clickedSeries.enabled() && legendFlag) {
+              for (i = 0; i < seriesCount; i++) {
+                if (i !== e.itemIndex) {
+                  series = map.getSeries(i);
+                  if (series) series.enabled(true);
+                }
+              }
+              legendFlag = false;
+            } else {
+              for (i = 0; i < seriesCount; i++) {
+                if (i !== e.itemIndex) {
+                  series = map.getSeries(i);
+                  if (series) series.enabled(false);
+                }
+              }
+              legendFlag = true;
+              clickedSeries.enabled(true);
+            }
+          });
+
+          // create zoom controls
+          var zoomController = anychart.ui.zoom();
+          zoomController.render(map);
+
+          // set container id for the chart
+          map.container('container');
+          // initiate chart drawing
+          map.draw();
+        }
+      );
+    });
+  
+</script>
+</body>
+</html>

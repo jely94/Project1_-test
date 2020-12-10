@@ -1,6 +1,6 @@
 function myFunction() {
     var x = document.getElementById("year-select").value;
-    document.getElementById("demo").innerHTML = "You selected: " + x;
+    //document.getElementById("demo").innerHTML = "You selected: " + x;
 
     // Clear map container
     document.getElementById("container").innerHTML = ""; 
@@ -40,6 +40,17 @@ function myFunction() {
         // set the chart title
         chart.title("Happiness Score by Country");
 
+        // Adjust country fill color on hover and click 
+        series
+            .hovered()
+            .fill('#f48fb1')
+            .stroke(anychart.color.darken('#f48fb1'));
+
+            series
+            .selected()
+            .fill('#c2185b')
+            .stroke(anychart.color.darken('#c2185b'));
+
         // color scale ranges
         ocs = anychart.scales.ordinalColor([
             { less: 3.999 },
@@ -57,6 +68,10 @@ function myFunction() {
 
         // tell the series what to use as a colorRange (colorScale)
         series.colorScale(ocs);
+
+        // create zoom controls
+        var zoomController = anychart.ui.zoom();
+        zoomController.render(chart);
 
         // enable the legend
         chart.legend(true);
